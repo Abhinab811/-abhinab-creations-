@@ -1,0 +1,20 @@
+Create a complete responsive business website for "Abhinab Creations".
+
+Include:
+- index.html
+- style.css
+- script.js
+
+Website sections:
+- Home (hero section)
+- Services (Glow sign board, hoarding, sun board, LED board)
+- Gallery (image grid)
+- About
+- Contact (phone, email, WhatsApp button)
+
+Features:
+- Mobile responsive
+- Clean modern design
+- Simple code (beginner friendly)
+
+Generate full code separately for each file.
